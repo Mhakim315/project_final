@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resource/images_an.jfif</file>
+        <file>Resource/images_ani.jfif</file>
+        <file>Resource/images_any.png</file>
+        <file>Resource/images_anyd.webp</file>
+        <file>Resource/images_art.jfif</file>
+        <file>Resource/images_board.jfif</file>
+        <file>Resource/images_book.jfif</file>
+        <file>Resource/images_carton.jfif</file>
+        <file>Resource/images_cel.jfif</file>
+        <file>Resource/images_com.jfif</file>
+        <file>Resource/images_comput.jfif</file>
+        <file>Resource/images_easy.jfif</file>
+        <file>Resource/images_film.jfif</file>
+        <file>Resource/images_gad.jfif</file>
+        <file>Resource/images_gam.jfif</file>
+        <file>Resource/images_genelar.png</file>
+        <file>Resource/images_geo.jfif</file>
+        <file>Resource/images_hard.jfif</file>
+        <file>Resource/images_history.jfif</file>
+        <file>Resource/images_manga.jfif</file>
+        <file>Resource/images_math.jfif</file>
+        <file>Resource/images_medium.jfif</file>
+        <file>Resource/images_medium_a.jfif</file>
+        <file>Resource/images_music.jfif</file>
+        <file>Resource/images_nat.jfif</file>
+        <file>Resource/images_pol.jfif</file>
+        <file>Resource/images_project_2.jfif</file>
+        <file>Resource/images_project_3.jfif</file>
+        <file>Resource/images_ques.png</file>
+        <file>Resource/images_solo.jfif</file>
+        <file>Resource/images_sport.jfif</file>
+        <file>Resource/images_sports.jfif</file>
+        <file>Resource/images_sports_copy.jfif</file>
+        <file>Resource/images_teatr.jfif</file>
+        <file>Resource/images_television.jfif</file>
+        <file>Resource/images_televison.jfif</file>
+        <file>Resource/QuizofKingsAvatar.jpg</file>
+    </qresource>
+</RCC>
